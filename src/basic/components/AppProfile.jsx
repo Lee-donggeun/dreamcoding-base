@@ -1,6 +1,6 @@
 import React from 'react';
-import Avartar from './components/Avartar';
-import Profile from './components/Profile';
+import Avartar from './Avartar';
+import Profile from './Profile';
 import './App.css'
 
 export default function AppProfile() {
